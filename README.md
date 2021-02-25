@@ -1,2 +1,2 @@
-# line-data-talk-2021
-LINE Data Talk.
+# talk-line-data-2021
+A comprehensive guid to analytics.
